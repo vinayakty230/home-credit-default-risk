@@ -1,0 +1,13 @@
+# Kaggle data — never committed (competition rules + >100MB files)
+data/*
+!data/README.md
+*.csv
+*.zip
+
+# Notebook/Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
